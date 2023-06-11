@@ -8,7 +8,8 @@ Given a string input, the project identifies misspelled words by comparing them 
 # Auto-Complete: 
 The project offers an auto-complete feature that suggests words based on a given prefix. It efficiently traverses the Trie to find all possible words starting with the provided prefix.
 
-# Optimized Storage: The project optimizes storage by caching previous search results, reducing the time complexity for subsequent searches for the same prefix.
+# Optimized Storage: 
+The project optimizes storage by caching previous search results, reducing the time complexity for subsequent searches for the same prefix.
 
 # User-Friendly Interface: 
 The project provides a user-friendly command-line interface where users can enter a string, and the program performs the spell check and auto-complete operations, providing the corrected string as the output.
